@@ -2,7 +2,7 @@
 
 <p align="center"><a href="http://www.johnfoxweb.com/"><img width="30%" alt="Visit my website!" src="johnFoxLogo.png" /></a></p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/andrew-krause-b6aa21179/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](www.linkedin.com/in/johnfoxcompsci)
 [![Website](https://img.shields.io/badge/Web-John-informational?style=flat-square&colorB=616161&labelColor=7CFC00)](https://johnfoxweb.com)
 
 Put Bio here
