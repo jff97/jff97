@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](www.linkedin.com/in/johnfoxcompsci)
 [![Website](https://img.shields.io/badge/Web-John-informational?style=flat-square&colorB=616161&labelColor=7CFC00)](https://johnfoxweb.com)
 
+<img width="30%" alt="test badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 ![Anurag's GitHub stats](https://github-readme-stats-try3.vercel.app/api?username=jff97&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats-try3.vercel.app/api/top-langs/?username=jff97&layout=compact)](https://github.com/jff97/github-readme-stats)
