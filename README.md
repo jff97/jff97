@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-<p align="center"><a href="http://www.johnfoxweb.com/"><img width="30%" alt="Visit my website!" src="" /></a></p>
+<p align="center"><a href="http://www.johnfoxweb.com/"><img width="30%" alt="Visit my website!" src="johnFoxLogo.png" /></a></p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/andrew-krause-b6aa21179/)
 [![Website](https://img.shields.io/badge/Web-Andrew-informational?style=flat-square&colorB=616161&labelColor=7CFC00)](https://andrewkrause.dev)
