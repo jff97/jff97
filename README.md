@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Web-John-informational?style=flat-square&colorB=616161&labelColor=7CFC00)](https://johnfoxweb.com)
 
 Put Bio here
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
 <p align="center"> <img src="https://github-readme-stats-try3-ampp0vsxx-jff97.vercel.app/api?username=jff97&show_icons=true&theme=react&count_private=true" alt="John Fox's stats stats" /> 
