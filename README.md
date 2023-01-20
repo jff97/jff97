@@ -8,6 +8,7 @@
 Put Bio here
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats-try3.vercel.app/api?username=jff97&count_private=true)
+[![Top Langs](https://github-readme-stats-try3.vercel.app/api/top-langs/?username=jff97&layout=compact)](https://github.com/jff97/github-readme-stats)
 
 
 <p align="center"> <img src="https://github-readme-stats-try3-ampp0vsxx-jff97.vercel.app/api?username=jff97&show_icons=true&theme=react&count_private=true" alt="John Fox's stats stats" /> 
