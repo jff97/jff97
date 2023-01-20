@@ -6,6 +6,7 @@
 [![Website](https://img.shields.io/badge/Web-John-informational?style=flat-square&colorB=616161&labelColor=7CFC00)](https://johnfoxweb.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats-try3.vercel.app/api?username=jff97&count_private=true)
+<br>
 [![Top Langs](https://github-readme-stats-try3.vercel.app/api/top-langs/?username=jff97&layout=compact)](https://github.com/jff97/github-readme-stats)
 
 
