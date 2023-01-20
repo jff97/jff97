@@ -9,7 +9,7 @@ Put Bio here
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jff97&show_icons=true&theme=react&count_private=true" alt="John Fox's stats stats" /> 
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jff97&show_icons=true&theme=react&count_private=true" alt="John Fox's stats stats" /> 
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jff97&show_icons=true&theme=react&count_private=true&layout=compact" alt="John Fox's Languages" />
 
