@@ -11,7 +11,7 @@ Put Bio here
 
 <p align="center"> <img src="https://github-readme-stats-try3-ampp0vsxx-jff97.vercel.app/api?username=jff97&show_icons=true&theme=react&count_private=true" alt="John Fox's stats stats" /> 
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats-try3-ampp0vsxx-jff97.vercel.app/api/top-langs?username=jff97&show_icons=true&&count_private=truetheme=react&layout=compact" alt="John Fox's Languages" />
+<img src="https://github-readme-stats-try3-ampp0vsxx-jff97.vercel.app/api/top-langs?username=jff97&show_icons=true&&count_private=true&theme=react&layout=compact" alt="John Fox's Languages" />
 
 <!--
 **jff97/jff97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
