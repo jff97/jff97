@@ -8,6 +8,9 @@
 ![John's GitHub stats](https://github-readme-stats-try3.vercel.app/api?username=jff97&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats-try3.vercel.app/api/top-langs/?username=jff97&layout=compact)](https://github.com/jff97/github-readme-stats)
+## standard panels below 
+<img src="https://github-readme-stats.vercel.app/api?username=jff97&show_icons=true&theme=react&count_private=true" alt="John-Fox Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jff97&show_icons=true&theme=react&count_private=true&layout=compact" alt="John-Fox Languages" />
 <!--
 **jff97/jff97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
